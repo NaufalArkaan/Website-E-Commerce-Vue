@@ -1,0 +1,48 @@
+{
+  "products": {
+    "-NhnpoR9ca5KYtfD9uJh": {
+      "category": "Dress",
+      "color": "Pink",
+      "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+      "image": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/462587/item/idgoods_11_462587.jpg?width=750",
+      "name": "AIRism Ultra Stretch Sleeveless Dress",
+      "price": "Rp 399000",
+      "shipping": "20000",
+      "size": "S",
+      "stock": "10"
+    },
+    "-NhnqXLUngTnnpMleFG8": {
+      "category": "T-Shirts (Short Sleeves)",
+      "color": "Purple",
+      "description": "Smooth 'AIRism' cotton-look fabric. The loose-fitting cut and slightly shorter length make this stand out.",
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457939/sub/goods_457939_sub14.jpg?width=750",
+      "name": "AIRism Cotton Short Sleeve T-Shirt",
+      "price": "Rp 199000",
+      "shipping": "20000",
+      "size": "L",
+      "stock": "1"
+    },
+    "-NhnqXLUngTnipMisDF9": {
+      "category": "Kemeja Katun",
+      "color": "Green",
+      "description": "Smooth 'AIRism' cotton-look fabric. The loose-fitting cut and slightly shorter length make this stand out.",
+      "image": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468914/item/idgoods_57_468914.jpg?width=750",
+      "name": "Kemeja Katun",
+      "price": "Rp 200000",
+      "shipping": "20000",
+      "size": "XL",
+      "stock": "10"
+    },
+    "-NhnqMLSngTnipKyuAL3": {
+      "category": "Kaos Polo",
+      "color": "Navy",
+      "description": "Smooth 'AIRism' cotton-look fabric. The loose-fitting cut and slightly shorter length make this stand out.",
+      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457905/item/goods_69_457905.jpg?width=750",
+      "name": "Kaos Polo",
+      "price": "Rp 299000",
+      "shipping": "20000",
+      "size": "L",
+      "stock": "5"
+    }
+  }
+}
